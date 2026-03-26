@@ -1,7 +1,7 @@
 const translations = {
     vi: {
-        title: "Made For Anita 🎁",
-        description: "Một món quà đầy yêu thương đang chờ bạn khám phá! Nhấn để xem lời chúc đặc biệt!",
+        title: "Made For Aruka 🎁",
+        description: "A gift full of love is waiting for you to discover! Tap to see a special wish!",
         login: "Đăng nhập bằng Google",
         logout: "Đăng xuất",
         settings: "Cài Đặt Trang Web",
